@@ -1,2 +1,2 @@
 # MixedStew
-It is full of challenge to work out it.
+It is full of challenge to work it out.
